@@ -1,0 +1,26 @@
+body {
+    background:#66CDAA;
+    background-image:url(https://image.freepik.com/psd-gratuitas/lindo-quadro-natural-com-folhas-tropicais_1361-1419.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 100vh;
+    font-family: Courier New;
+    }
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  .menu li{
+    list-style:none;
+  }
+  a{
+    color: tuel;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .tituloSite {
+    text-align: center;
+  }
